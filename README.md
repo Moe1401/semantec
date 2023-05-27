@@ -1,2 +1,2 @@
-# semantec
-semantic tabs and some CSS
+# semantic
+semantic tabs and some CSS updates made
