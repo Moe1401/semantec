@@ -20,3 +20,4 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 https://moe1401.github.io/semantic/
+![hw1](https://github.com/Moe1401/semantic/assets/9557446/e619b936-92ef-4afd-814b-b4a779ec6805)
